@@ -32,7 +32,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.ShristySk1:CarouselView:0.1.0'
+    implementation 'com.github.ShristySk1:CarouselView:1.1.1'
 }
 ```
 
