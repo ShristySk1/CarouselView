@@ -1,6 +1,6 @@
 # CarouselView
 
-[![](https://jitpack.io/v/jama5262/CarouselView.svg)](https://jitpack.io/#jama5262/CarouselView)
+[![](https://jitpack.io/v/ShristySk1/CarouselView.svg)](https://jitpack.io/#ShristySk1/CarouselView)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An android carousel library for RecyclerView
@@ -15,7 +15,7 @@ Full Image | Item Centered | Item Start
 
 ## Installation
 
-Current Version: [![](https://jitpack.io/v/jama5262/CarouselView.svg)](https://jitpack.io/#jama5262/CarouselView)
+Current Version: [![](https://jitpack.io/v/ShristySk1/CarouselView.svg)](https://jitpack.io/#ShristySk1/CarouselView)
 
 #### Gradle
 
