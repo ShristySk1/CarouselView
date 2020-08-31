@@ -32,7 +32,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.jama5262:CarouselView:1.1.0'
+    implementation 'com.github.ShristySk1:CarouselView:0.1.0'
 }
 ```
 
@@ -171,12 +171,7 @@ Below are all the methods available
 | setCarouselViewListener | Adding custom view |  |  | No |
 | setCarouselScrollListener | Listens for scrolls |  |  | No |
 
-## Support
 
-Reach out to me at one of the following places!
-
-- Email at jama3137@gmail.com
-- Twitter [timedjama5262](https://twitter.com/timedjama5262)
 
 ## License
 
