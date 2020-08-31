@@ -48,11 +48,11 @@ dependencies {
 ```
 
 ```
-<dependency>
-    <groupId>com.github.jama5262</groupId>
-	<artifactId>CarouselView</artifactId>
-    <version>1.1.0</version>
-</dependency>
+	<dependency>
+	    <groupId>com.github.ShristySk1</groupId>
+	    <artifactId>CarouselView</artifactId>
+	    <version>0.1.0</version>
+	</dependency>
 ```
 
 Great the project has been setup 👍
